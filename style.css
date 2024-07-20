@@ -1,0 +1,40 @@
+#gh {
+    background-color: rgb(17, 16, 16);
+}
+
+.nm {
+    justify-content: space-between;
+}
+
+.nm:hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+#hu {
+    background-color: black !important;
+    opacity: 0.9 !important;
+}
+
+.carousel-item img {
+    height: 500px !important;
+    ;
+}
+
+#we {
+    background-color: black !important;
+}
+
+#fg {
+    background-color: black !important;
+}
+
+
+.order:hover{
+    transition: 2ms;
+background-color: blueviolet !important;
+
+}
+
+
+
